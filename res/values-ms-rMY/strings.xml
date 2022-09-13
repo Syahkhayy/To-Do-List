@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Senarai \"To-Do\"</string>
+    <string name="inputHint">Sila Tambah Senarai Baru Di Sini</string>
+    <string name="btnAdd">Tambah</string>
+</resources>

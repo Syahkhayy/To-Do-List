@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="inputHint">Please Add New Item Here</string>
+    <string name="btnAdd">Add</string>
+</resources>
